@@ -6,5 +6,7 @@ ingrear a la carpeta clonada
 trabajo en la carpeta
 agrego cambios y archivos (git add .   )
 hago el commmit (tomo una instantanea del momento)
+(git commit -m)
 subir al repositorio web
+(git push)
 
